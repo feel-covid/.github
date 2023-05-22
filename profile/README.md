@@ -1,5 +1,6 @@
 # Feel Covid
-The organization incorporates various repositories employed in maintaining feel.co.il. The website was established at the onset of the COVID-19 pandemic, presenting reports from Israel's Ministry of Health in a user-friendly and convenient manner. 
+The organization incorporates various repositories employed in maintaining feel.co.il. The website was established at the onset of the COVID-19 pandemic, presenting reports from Israel's Ministry of Health in a user-friendly and convenient manner.
+![screencapture-localhost-3000-2023-05-22-12_07_57](https://github.com/feel-covid/feel-covid-frontend/assets/30155843/1f616221-a7cf-4d6c-9191-2c24cf189246)
 
 # Repositories
 * **feel-covid-db**: Contains the data collected until November 2021.
